@@ -3,7 +3,7 @@
 ## 🚀 Sobre mim
 
 - 🇧🇷 Brasileiro
-- 🎂 Aniversário: 21 de agosto de 2003
+- 🎂 Aniversário: 24 de Outubro de 2003
 - Cursando Engenharia de Software 2 Período.
 - Cursando Arquieto de Software Pela DNC.
 - Formado em Técnico em Eletrotécnica
